@@ -106,5 +106,4 @@ Implement a game rest functionality, so that the player can make a new guess! He
 3. Restore the initial conditions of the message, number, score and guess input field
 4. Also restore the original background color (#222) and number width (15rem)
 
-GOOD LUCK 😀
 */
